@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+
+.flex {
+  display: flex;
+}
+
+.gap40 {
+  gap: 40px;
+}
