@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a2c87866.css","mappings":"AAAA,EACE,QACF,CAEA,MACE,YACF,CAEA,OACE,QACF","sources":["utils/global.css"],"sourcesContent":["* {\n  margin: 0;\n}\n\n.flex {\n  display: flex;\n}\n\n.gap40 {\n  gap: 40px;\n}\n"],"names":[],"sourceRoot":""}
